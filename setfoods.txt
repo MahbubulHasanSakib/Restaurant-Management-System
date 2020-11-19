@@ -1,0 +1,20 @@
+Grill Burger
+Fried Chickens
+Chicken Stew
+Meat Ball
+Spicy Hot Wings
+Desserts
+Pizza
+French Fries
+Hot Dogs
+Tacos
+210
+180
+220
+220
+180
+320
+280
+300
+320
+350
